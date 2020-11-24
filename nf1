@@ -1,3 +1,6 @@
 this is a new file
 created to check if the file creation working even if git bash is offline
 we will check it once we commit this remotely
+we have to pull from the remote using pulling command
+then we are going to add few lines and then save it here
+then we'll try to push it and check if the data is registering
